@@ -62,4 +62,7 @@ community members. This is responsible for oversee day to day activities of the 
 they align with the values of the DAO
 
 
-     ![UG dao Organization](https://github.com/Undiscoveredgoats/goats_nft/blob/main/img/ug%20dao%20organization.png)
+
+
+
+    ![UG dao Organization](https://github.com/Undiscoveredgoats/goats_nft/blob/main/img/ug%20dao%20organization.png)
