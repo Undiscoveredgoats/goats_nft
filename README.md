@@ -29,7 +29,7 @@ space.
 3. Reduction of space between true and longterm film3 builders
 
 ## DAO ORGANIZATION
-![UG dao Organization](https://github.com/Undiscoveredgoats/goats_nft/blob/main/img/ug%20dao%20organization.png).
+<!-- ![UG dao Organization](https://github.com/Undiscoveredgoats/goats_nft/blob/main/img/ug%20dao%20organization.png). -->
 <p align = "center"> <img src = "https://github.com/Undiscoveredgoats/goats_nft/blob/main/img/ug%20dao%20organization.png"/> </p>
 
 The DAO at its ideal frame work is divided into five parts, the sustainable success of the DAO will
