@@ -32,32 +32,32 @@ space.
 The DAO at its ideal frame work is divided into five parts, the sustainable success of the DAO will
 depend on the values from this HERDS:
 1. DEVs HERD
-- This herd is where all technically goats meet, talk and build together different tools for the DAO. This
+* This herd is where all technically goats meet, talk and build together different tools for the DAO. This
 herd is responsible for executing any technical goals of the community, creating tools and unique tech
-solutions to provide substanial technological value to the goats
+solutions to provide substanial technological value to the goats.
 
 2. ARTISITC HERD
--This herd is where all digital artist, filmmakers and artist of all kinds meet, showcase they're art, network
+* This herd is where all digital artist, filmmakers and artist of all kinds meet, showcase they're art, network
 with those looking to acquire creatives for there upcoming project. Responsible for reviewing content
-creative content that is used for the DAO
+creative content that is used for the DAO.
 
 3. MEDIA HERD
--Thiss herd is responsible for producing daily reports on all of the happenings in DAO and the NFT/
+* This herd is responsible for producing daily reports on all of the happenings in DAO and the NFT/
 Crypto space. Media herd keeps citizens interlinked while highlighting the innovative and exciting
-projects being built by the DAO
+projects being built by the DAO.
 
 4. OUTREACH HERD
--Outreach represents the DAOs goats in discussions with external projects to bridge communities &
+* Outreach represents the DAOs goats in discussions with external projects to bridge communities &
 extend value to other departments within the DAO. We establish, foster, and cultivate relationships with
 external founders and teams
 
 5. RESEARCH HERD
--Here, a robust group of goats dig in, review, challenge, advise on a large number of things. From
+* Here, a robust group of goats dig in, review, challenge, advise on a large number of things. From
 supporting our internal Herds such as Outreach and Heardquaters, to helping goats led projects with
 advice and review... and everything in between
 
 6. HEADQUARTERS
--CitCap is an investment platform for seed-stage web3 projects formed by and for Neo Tokyo
+* CitCap is an investment platform for seed-stage web3 projects formed by and for Neo Tokyo
 community members. This is responsible for oversee day to day activities of the DAO and make sure
 they align with the values of the DAO
 
