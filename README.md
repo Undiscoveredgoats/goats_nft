@@ -11,19 +11,24 @@ We aim to use the power of community and web3 to create a new way were digital a
 The creation and immediate infrastructure is laid out by creating a more detailed work through on how the ideation and onboarding will begin, we aim to stay in the industry for the long term so we value organic growth of our community at far most, we believe in laying strong foundations that will withstand the test of time in this chaotic and unpredictable market. Some of this infrastructure may be for example UG GOAT NFT collection which will lay the foundation of what were trying to create and achieve in the UG DAO.
 
 ## VALUE PROPOSITION
-**ARTIST**
+<!-- **ARTIST** -->
+![UG dao Organization](https://github.com/Undiscoveredgoats/goats_nft/blob/main/img/artist.png).
+<!-- https://github.com/Undiscoveredgoats/goats_nft/blob/main/img/companies.png -->
 1. A hub for digital creatives in the space to meet and collaborate in building web3 art community and usher a new infrastructure for visual art in the
 space.
 2. A hub for artist to meet and share there knowledge on different techniques via tutorials, workshops etc
 3. Branding opportunities for digital artists within the DAO.
 
 
-**COMPANIES**
+<!-- **COMPANIES** -->
+![UG dao Organization](https://github.com/Undiscoveredgoats/goats_nft/blob/main/img/companies.png).
 1. Partnership for branding purpose
 2. Integration with different Daos that align with core values and mission
 
 
-**COMMUNITY**
+<!-- **COMMUNITY** -->
+
+![UG dao Organization](https://github.com/Undiscoveredgoats/goats_nft/blob/main/img/community.png).
 1. Ability to propose and vote for DAO decisions
 2. Ability to get incentives through value provided to the DAO
 3. Reduction of space between true and longterm film3 builders
