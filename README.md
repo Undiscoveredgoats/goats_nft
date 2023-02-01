@@ -21,7 +21,8 @@ space.
 
 
 <!-- **COMPANIES** -->
-<p align = "left"> <img src = "https://github.com/Undiscoveredgoats/goats_nft/blob/main/img/companies.png" width = "300" height = "150"/> </p>
+<p align = "left"> <img src = "https://github.com/Undiscoveredgoats/goats_nft/blob/main/img/companies.png" width = "100" height = "50"/> </p>
+
 1. Partnership for branding purpose
 2. Integration with different Daos that align with core values and mission
 
