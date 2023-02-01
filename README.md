@@ -31,7 +31,7 @@ space.
 ## DAO ORGANIZATION
 The DAO at its ideal frame work is divided into five parts, the sustainable success of the DAO will
 depend on the values from this HERDS:
-1. **DEVs HERD
+1. **DEVs HERD**
 * This herd is where all technically goats meet, talk and build together different tools for the DAO. This
 herd is responsible for executing any technical goals of the community, creating tools and unique tech
 solutions to provide substanial technological value to the goats.
