@@ -35,7 +35,7 @@ space.
 
 ## DAO ORGANIZATION
 <!-- ![UG dao Organization](https://github.com/Undiscoveredgoats/goats_nft/blob/main/img/ug%20dao%20organization.png). -->
-<p align = "center"> <img src = "https://github.com/Undiscoveredgoats/goats_nft/blob/main/img/ug%20dao%20organization.png" width = "700" height = "400"/> </p>
+<p align = "center"> <img src = "https://github.com/Undiscoveredgoats/goats_nft/blob/main/img/ug%20dao%20organization.png" width = "700" height = "300"/> </p>
 
 The DAO at its ideal frame work is divided into five parts, the sustainable success of the DAO will
 depend on the values from this HERDS:
