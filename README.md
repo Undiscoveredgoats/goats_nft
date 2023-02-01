@@ -62,5 +62,4 @@ community members. This is responsible for oversee day to day activities of the 
 they align with the values of the DAO
 
 
-
-
+![UG dao Organization](img/ug dao organization.png)
